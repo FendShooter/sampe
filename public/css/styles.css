@@ -1,8 +1,2 @@
-h1 {
-  font-size: 1.8rem;
-  color: red; }
-
-img {
-  border: 5px solid #818181; }
-
+h1{font-size:1.8rem;color:red}img{border:5px solid #818181}.nav{background:#1a7d95;color:white}.nav_list{display:flex;justify-content:space-between;height:80px;align-items:center;list-style:none}.footer{height:35px;background:#333;text-align:center;display:flex;justify-content:center;align-items:center;color:white}
 /*# sourceMappingURL=styles.css.map */
